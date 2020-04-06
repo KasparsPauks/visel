@@ -68,3 +68,4 @@ III Palaist pamata programmas logu:
         for i in alfabet:
             btn[i]['state'] = ['disabled']
 """
+# herņa
